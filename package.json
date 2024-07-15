@@ -14,9 +14,11 @@
   },
   "dependencies": {
     "@primevue/themes": "^4.0.0",
+    "@vueuse/core": "^10.11.0",
     "pinia": "^2.1.7",
     "primevue": "^4.0.0",
     "vue": "^3.4.21",
+    "vue-i18n": "^9.13.1",
     "vue-router": "^4.3.0"
   },
   "devDependencies": {
